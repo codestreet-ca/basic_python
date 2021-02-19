@@ -1,0 +1,3 @@
+Welcome to the python programming course by Code Street.
+
+Each branch represents a week's material. You will find code, slides, and recording on this repo
