@@ -3,4 +3,4 @@
 Install atom ide and python 3. Learn about number representations and create out first program.
 
 Here is the recording for Saturday
-<video src="https://drive.google.com/file/d/1W64hLERRF2R372A8ccOygNa9L3Vo8Iil/view?usp=sharing" width="320" height="240">
+<video src="https://youtu.be/uE8TffdFfzo" width="320" height="240">
