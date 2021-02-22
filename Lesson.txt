@@ -1,3 +1,0 @@
-This week, we will install python 3, install atom ide, and learn how to use them.
-
-We will also learn all about numbers in python.
