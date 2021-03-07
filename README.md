@@ -1,6 +1,6 @@
-# Week 2
+# Week 3
 
-Learn about booleans, numerical operations, and strings.
+Learn about booleans, while loops, and for loops.
 
 [Here is the recording for Saturday]()
 
