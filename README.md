@@ -1,6 +1,6 @@
-# Week 2
+# Week 5
 
-Learn about booleans, numerical operations, and strings.
+Learn about files, how to create them, open them, read them, and write to them.
 
 [Here is the recording for Saturday]()
 
