@@ -2,6 +2,6 @@
 
 Learn about files, how to create them, open them, read them, and write to them.
 
-[Here is the recording for Saturday]()
+[Here is the recording for Saturday](https://drive.google.com/file/d/1Zj-oQPygaCWoQp5iIdLOEdjv_bYXS9Ph/view?usp=sharing)
 
 [Here is the recording for Sunday]()
