@@ -1,6 +1,6 @@
-# Week 2
+# Week 8
 
-Learn about booleans, numerical operations, and strings.
+Install Selenium and BeautifulSoup4. Begin the webscraping project.
 
 [Here is the recording for Saturday]()
 
