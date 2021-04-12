@@ -1,6 +1,6 @@
-# Week 2
+# Week 7
 
-Learn about booleans, numerical operations, and strings.
+Learn about functions, libraries, and pip.
 
 [Here is the recording for Saturday]()
 
